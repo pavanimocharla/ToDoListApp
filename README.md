@@ -15,10 +15,10 @@ How It Works
 The app runs in a loop, displaying a menu with four options: Add Task, View Tasks, Remove Task, and Exit. Tasks are stored in memory using an ArrayList<String> for the duration of the program's run.
 
 How to Run
-Make sure you have Java (JDK 17 or later) installed.
-Compile the program:
+1.Make sure you have Java (JDK 17 or later) installed.
+2.Compile the program:
    javac ToDoListApp.java
-   Run it:
+3.Run it:
    java ToDoListApp
 Follow the on-screen menu to add, view, or remove tasks.
 Example
